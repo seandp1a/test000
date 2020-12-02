@@ -3,6 +3,9 @@ const data = [
   { name: '張小花', tel: '02-29879998' },
   { name: '吳阿寶', tel: '02-29871172' },
   { name: '陳天才', tel: '02-29679991' },
+  { name: '陳天才', tel: '02-29679991' },
+  { name: '陳天才', tel: '02-29679991' },
+  { name: '陳天才', tel: '02-29679991' },
 ]
 console.log(data)
 let datatext = ''
